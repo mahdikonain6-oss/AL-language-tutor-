@@ -1,0 +1,7 @@
+{
+  "name": "AI Language Tutor",
+  "description": "An interactive AI-powered website that acts as a real language teacher, helping users learn new languages through real-time conversation and pronunciation correction.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
